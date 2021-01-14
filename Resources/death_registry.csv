@@ -1,0 +1,746 @@
+_id,CIVIC_CENTRE,DEATH_LICENSES,PLACE_OF_DEATH,TIME_PERIOD
+13724,ET,69,Outside City Limits,Jan-11
+13725,ET,341,Toronto,Jan-11
+13726,NY,141,Outside City Limits,Jan-11
+13727,NY,540,Toronto,Jan-11
+13728,SC,129,Outside City Limits,Jan-11
+13729,SC,545,Toronto,Jan-11
+13730,TO,297,Toronto,Jan-11
+13731,ET,83,Outside City Limits,Feb-11
+13732,ET,224,Toronto,Feb-11
+13733,NY,81,Outside City Limits,Feb-11
+13734,NY,307,Toronto,Feb-11
+13735,SC,68,Outside City Limits,Feb-11
+13736,SC,339,Toronto,Feb-11
+13737,TO,223,Toronto,Feb-11
+13738,ET,116,Outside City Limits,Mar-11
+13739,ET,233,Toronto,Mar-11
+13740,NY,118,Outside City Limits,Mar-11
+13741,NY,537,Toronto,Mar-11
+13742,SC,117,Outside City Limits,Mar-11
+13743,SC,283,Toronto,Mar-11
+13744,TO,185,Toronto,Mar-11
+13745,ET,83,Outside City Limits,Apr-11
+13746,ET,290,Toronto,Apr-11
+13747,NY,87,Outside City Limits,Apr-11
+13748,NY,553,Toronto,Apr-11
+13749,SC,85,Outside City Limits,Apr-11
+13750,SC,372,Toronto,Apr-11
+13751,TO,42,Toronto,Apr-11
+13752,ET,57,Outside City Limits,May-11
+13753,ET,176,Toronto,May-11
+13754,NY,92,Outside City Limits,May-11
+13755,NY,480,Toronto,May-11
+13756,SC,51,Outside City Limits,May-11
+13757,SC,253,Toronto,May-11
+13758,ET,30,Outside City Limits,Jun-11
+13759,ET,239,Toronto,Jun-11
+13760,NY,107,Outside City Limits,Jun-11
+13761,NY,479,Toronto,Jun-11
+13762,SC,84,Outside City Limits,Jun-11
+13763,SC,518,Toronto,Jun-11
+13764,ET,40,Outside City Limits,Jul-11
+13765,ET,317,Toronto,Jul-11
+13766,NY,50,Outside City Limits,Jul-11
+13767,NY,315,Toronto,Jul-11
+13768,SC,43,Outside City Limits,Jul-11
+13769,SC,312,Toronto,Jul-11
+13770,TO,13,Outside City Limits,Jul-11
+13771,TO,51,Toronto,Jul-11
+13772,ET,169,Outside City Limits,Aug-11
+13773,ET,165,Toronto,Aug-11
+13774,NY,117,Outside City Limits,Aug-11
+13775,NY,389,Toronto,Aug-11
+13776,SC,93,Outside City Limits,Aug-11
+13777,SC,320,Toronto,Aug-11
+13778,TO,4,Outside City Limits,Aug-11
+13779,TO,273,Toronto,Aug-11
+13780,ET,74,Outside City Limits,Sep-11
+13781,ET,176,Toronto,Sep-11
+13782,NY,133,Outside City Limits,Sep-11
+13783,NY,610,Toronto,Sep-11
+13784,SC,58,Outside City Limits,Sep-11
+13785,SC,394,Toronto,Sep-11
+13786,ET,85,Outside City Limits,Oct-11
+13787,ET,245,Toronto,Oct-11
+13788,NY,123,Outside City Limits,Oct-11
+13789,NY,498,Toronto,Oct-11
+13790,SC,57,Outside City Limits,Oct-11
+13791,SC,492,Toronto,Oct-11
+13792,TO,5,Toronto,Oct-11
+13793,ET,70,Outside City Limits,Nov-11
+13794,ET,250,Toronto,Nov-11
+13795,NY,104,Outside City Limits,Nov-11
+13796,NY,458,Toronto,Nov-11
+13797,SC,73,Outside City Limits,Nov-11
+13798,SC,378,Toronto,Nov-11
+13799,ET,68,Outside City Limits,Dec-11
+13800,ET,174,Toronto,Dec-11
+13801,NY,110,Outside City Limits,Dec-11
+13802,NY,420,Toronto,Dec-11
+13803,SC,94,Outside City Limits,Dec-11
+13804,SC,456,Toronto,Dec-11
+13805,ET,127,Outside City Limits,Jan-12
+13806,ET,396,Toronto,Jan-12
+13807,NY,81,Outside City Limits,Jan-12
+13808,NY,424,Toronto,Jan-12
+13809,SC,47,Outside City Limits,Jan-12
+13810,SC,432,Toronto,Jan-12
+13811,TO,97,Toronto,Jan-12
+13812,ET,58,Outside City Limits,Feb-12
+13813,ET,362,Toronto,Feb-12
+13814,NY,62,Outside City Limits,Feb-12
+13815,NY,304,Toronto,Feb-12
+13816,SC,137,Outside City Limits,Feb-12
+13817,SC,508,Toronto,Feb-12
+13818,TO,12,Toronto,Feb-12
+13819,ET,179,Outside City Limits,Mar-12
+13820,ET,493,Toronto,Mar-12
+13821,NY,39,Outside City Limits,Mar-12
+13822,NY,271,Toronto,Mar-12
+13823,SC,75,Outside City Limits,Mar-12
+13824,SC,432,Toronto,Mar-12
+13825,ET,188,Outside City Limits,Apr-12
+13826,ET,452,Toronto,Apr-12
+13827,NY,14,Outside City Limits,Apr-12
+13828,NY,214,Toronto,Apr-12
+13829,SC,23,Outside City Limits,Apr-12
+13830,SC,254,Toronto,Apr-12
+13831,ET,137,Outside City Limits,May-12
+13832,ET,658,Toronto,May-12
+13833,NY,23,Outside City Limits,May-12
+13834,NY,245,Toronto,May-12
+13835,SC,67,Outside City Limits,May-12
+13836,SC,359,Toronto,May-12
+13837,ET,172,Outside City Limits,Jun-12
+13838,ET,521,Toronto,Jun-12
+13839,NY,55,Outside City Limits,Jun-12
+13840,NY,138,Toronto,Jun-12
+13841,SC,117,Outside City Limits,Jun-12
+13842,SC,561,Toronto,Jun-12
+13843,ET,105,Outside City Limits,Jul-12
+13844,ET,264,Toronto,Jul-12
+13845,NY,70,Outside City Limits,Jul-12
+13846,NY,387,Toronto,Jul-12
+13847,SC,52,Outside City Limits,Jul-12
+13848,SC,293,Toronto,Jul-12
+13849,ET,99,Outside City Limits,Aug-12
+13850,ET,437,Toronto,Aug-12
+13851,NY,77,Outside City Limits,Aug-12
+13852,NY,286,Toronto,Aug-12
+13853,SC,46,Outside City Limits,Aug-12
+13854,SC,142,Toronto,Aug-12
+13855,ET,106,Outside City Limits,Sep-12
+13856,ET,425,Toronto,Sep-12
+13857,NY,84,Outside City Limits,Sep-12
+13858,NY,380,Toronto,Sep-12
+13859,SC,115,Outside City Limits,Sep-12
+13860,SC,590,Toronto,Sep-12
+13861,ET,103,Outside City Limits,Oct-12
+13862,ET,451,Toronto,Oct-12
+13863,NY,107,Outside City Limits,Oct-12
+13864,NY,377,Toronto,Oct-12
+13865,SC,84,Outside City Limits,Oct-12
+13866,SC,473,Toronto,Oct-12
+13867,ET,85,Outside City Limits,Nov-12
+13868,ET,293,Toronto,Nov-12
+13869,NY,88,Outside City Limits,Nov-12
+13870,NY,314,Toronto,Nov-12
+13871,SC,79,Outside City Limits,Nov-12
+13872,SC,434,Toronto,Nov-12
+13873,ET,82,Outside City Limits,Dec-12
+13874,ET,636,Toronto,Dec-12
+13875,NY,73,Outside City Limits,Dec-12
+13876,NY,311,Toronto,Dec-12
+13877,SC,36,Outside City Limits,Dec-12
+13878,SC,281,Toronto,Dec-12
+13879,ET,283,Outside City Limits,Jan-13
+13880,ET,631,Toronto,Jan-13
+13881,NY,117,Outside City Limits,Jan-13
+13882,NY,418,Toronto,Jan-13
+13883,SC,78,Outside City Limits,Jan-13
+13884,SC,582,Toronto,Jan-13
+13885,ET,103,Outside City Limits,Feb-13
+13886,ET,434,Toronto,Feb-13
+13887,NY,54,Outside City Limits,Feb-13
+13888,NY,243,Toronto,Feb-13
+13889,SC,59,Outside City Limits,Feb-13
+13890,SC,420,Toronto,Feb-13
+13891,ET,94,Outside City Limits,Mar-13
+13892,ET,312,Toronto,Mar-13
+13893,NY,80,Outside City Limits,Mar-13
+13894,NY,234,Toronto,Mar-13
+13895,SC,95,Outside City Limits,Mar-13
+13896,SC,416,Toronto,Mar-13
+13897,ET,163,Outside City Limits,Apr-13
+13898,ET,669,Toronto,Apr-13
+13899,NY,47,Outside City Limits,Apr-13
+13900,NY,226,Toronto,Apr-13
+13901,SC,76,Outside City Limits,Apr-13
+13902,SC,501,Toronto,Apr-13
+13903,ET,82,Outside City Limits,May-13
+13904,ET,435,Toronto,May-13
+13905,NY,81,Outside City Limits,May-13
+13906,NY,276,Toronto,May-13
+13907,SC,86,Outside City Limits,May-13
+13908,SC,432,Toronto,May-13
+13909,ET,93,Outside City Limits,Jun-13
+13910,ET,506,Toronto,Jun-13
+13911,NY,66,Outside City Limits,Jun-13
+13912,NY,236,Toronto,Jun-13
+13913,SC,54,Outside City Limits,Jun-13
+13914,SC,255,Toronto,Jun-13
+13915,ET,193,Outside City Limits,Jul-13
+13916,ET,732,Toronto,Jul-13
+13917,NY,55,Outside City Limits,Jul-13
+13918,NY,276,Toronto,Jul-13
+13919,SC,58,Outside City Limits,Jul-13
+13920,SC,346,Toronto,Jul-13
+13921,ET,116,Outside City Limits,Aug-13
+13922,ET,379,Toronto,Aug-13
+13923,NY,83,Outside City Limits,Aug-13
+13924,NY,290,Toronto,Aug-13
+13925,SC,33,Outside City Limits,Aug-13
+13926,SC,217,Toronto,Aug-13
+13927,ET,150,Outside City Limits,Sep-13
+13928,ET,449,Toronto,Sep-13
+13929,NY,109,Outside City Limits,Sep-13
+13930,NY,487,Toronto,Sep-13
+13931,SC,83,Outside City Limits,Sep-13
+13932,SC,338,Toronto,Sep-13
+13933,ET,111,Outside City Limits,Oct-13
+13934,ET,414,Toronto,Oct-13
+13935,NY,98,Outside City Limits,Oct-13
+13936,NY,390,Toronto,Oct-13
+13937,SC,82,Outside City Limits,Oct-13
+13938,SC,433,Toronto,Oct-13
+13939,ET,99,Outside City Limits,Nov-13
+13940,ET,338,Toronto,Nov-13
+13941,NY,60,Outside City Limits,Nov-13
+13942,NY,277,Toronto,Nov-13
+13943,SC,86,Outside City Limits,Nov-13
+13944,SC,398,Toronto,Nov-13
+13945,ET,66,Outside City Limits,Dec-13
+13946,ET,432,Toronto,Dec-13
+13947,NY,95,Outside City Limits,Dec-13
+13948,NY,331,Toronto,Dec-13
+13949,SC,81,Outside City Limits,Dec-13
+13950,SC,318,Toronto,Dec-13
+13951,ET,215,Outside City Limits,Jan-14
+13952,ET,569,Toronto,Jan-14
+13953,NY,149,Outside City Limits,Jan-14
+13954,NY,503,Toronto,Jan-14
+13955,SC,104,Outside City Limits,Jan-14
+13956,SC,555,Toronto,Jan-14
+13957,ET,136,Outside City Limits,Feb-14
+13958,ET,379,Toronto,Feb-14
+13959,NY,93,Outside City Limits,Feb-14
+13960,NY,381,Toronto,Feb-14
+13961,SC,66,Outside City Limits,Feb-14
+13962,SC,335,Toronto,Feb-14
+13963,ET,112,Outside City Limits,Mar-14
+13964,ET,394,Toronto,Mar-14
+13965,NY,158,Outside City Limits,Mar-14
+13966,NY,618,Toronto,Mar-14
+13967,SC,90,Outside City Limits,Mar-14
+13968,SC,410,Toronto,Mar-14
+13969,ET,112,Outside City Limits,Apr-14
+13970,ET,352,Toronto,Apr-14
+13971,NY,115,Outside City Limits,Apr-14
+13972,NY,518,Toronto,Apr-14
+13973,SC,59,Outside City Limits,Apr-14
+13974,SC,402,Toronto,Apr-14
+13975,ET,78,Outside City Limits,May-14
+13976,ET,330,Toronto,May-14
+13977,NY,63,Outside City Limits,May-14
+13978,NY,296,Toronto,May-14
+13979,SC,108,Outside City Limits,May-14
+13980,SC,398,Toronto,May-14
+13981,ET,95,Outside City Limits,Jun-14
+13982,ET,371,Toronto,Jun-14
+13983,NY,99,Outside City Limits,Jun-14
+13984,NY,404,Toronto,Jun-14
+13985,SC,63,Outside City Limits,Jun-14
+13986,SC,390,Toronto,Jun-14
+13987,ET,116,Outside City Limits,Jul-14
+13988,ET,393,Toronto,Jul-14
+13989,NY,119,Outside City Limits,Jul-14
+13990,NY,454,Toronto,Jul-14
+13991,SC,44,Outside City Limits,Jul-14
+13992,SC,258,Toronto,Jul-14
+13993,ET,80,Outside City Limits,Aug-14
+13994,ET,301,Toronto,Aug-14
+13995,NY,103,Outside City Limits,Aug-14
+13996,NY,277,Toronto,Aug-14
+13997,SC,120,Outside City Limits,Aug-14
+13998,SC,518,Toronto,Aug-14
+13999,ET,105,Outside City Limits,Sep-14
+14000,ET,274,Toronto,Sep-14
+14001,NY,94,Outside City Limits,Sep-14
+14002,NY,391,Toronto,Sep-14
+14003,SC,96,Outside City Limits,Sep-14
+14004,SC,427,Toronto,Sep-14
+14005,ET,92,Outside City Limits,Oct-14
+14006,ET,297,Toronto,Oct-14
+14007,NY,59,Outside City Limits,Oct-14
+14008,NY,454,Toronto,Oct-14
+14009,SC,81,Outside City Limits,Oct-14
+14010,SC,459,Toronto,Oct-14
+14011,ET,138,Outside City Limits,Nov-14
+14012,ET,467,Toronto,Nov-14
+14013,NY,93,Outside City Limits,Nov-14
+14014,NY,267,Toronto,Nov-14
+14015,SC,71,Outside City Limits,Nov-14
+14016,SC,432,Toronto,Nov-14
+14017,ET,111,Outside City Limits,Dec-14
+14018,ET,308,Toronto,Dec-14
+14019,NY,73,Outside City Limits,Dec-14
+14020,NY,441,Toronto,Dec-14
+14021,SC,85,Outside City Limits,Dec-14
+14022,SC,482,Toronto,Dec-14
+14023,ET,158,Outside City Limits,Jan-15
+14024,ET,487,Toronto,Jan-15
+14025,NY,119,Outside City Limits,Jan-15
+14026,NY,422,Toronto,Jan-15
+14027,SC,94,Outside City Limits,Jan-15
+14028,SC,580,Toronto,Jan-15
+14029,ET,132,Outside City Limits,Feb-15
+14030,ET,543,Toronto,Feb-15
+14031,NY,93,Outside City Limits,Feb-15
+14032,NY,210,Toronto,Feb-15
+14033,SC,107,Outside City Limits,Feb-15
+14034,SC,500,Toronto,Feb-15
+14035,ET,139,Outside City Limits,Mar-15
+14036,ET,584,Toronto,Mar-15
+14037,NY,65,Outside City Limits,Mar-15
+14038,NY,347,Toronto,Mar-15
+14039,SC,63,Outside City Limits,Mar-15
+14040,SC,367,Toronto,Mar-15
+14041,ET,113,Outside City Limits,Apr-15
+14042,ET,399,Toronto,Apr-15
+14043,NY,126,Outside City Limits,Apr-15
+14044,NY,345,Toronto,Apr-15
+14045,SC,60,Outside City Limits,Apr-15
+14046,SC,436,Toronto,Apr-15
+14047,ET,64,Outside City Limits,May-15
+14048,ET,273,Toronto,May-15
+14049,NY,94,Outside City Limits,May-15
+14050,NY,422,Toronto,May-15
+14051,SC,49,Outside City Limits,May-15
+14052,SC,364,Toronto,May-15
+14053,ET,124,Outside City Limits,Jun-15
+14054,ET,319,Toronto,Jun-15
+14055,NY,54,Outside City Limits,Jun-15
+14056,NY,363,Toronto,Jun-15
+14057,SC,93,Outside City Limits,Jun-15
+14058,SC,450,Toronto,Jun-15
+14059,ET,93,Outside City Limits,Jul-15
+14060,ET,374,Toronto,Jul-15
+14061,NY,76,Outside City Limits,Jul-15
+14062,NY,369,Toronto,Jul-15
+14063,SC,94,Outside City Limits,Jul-15
+14064,SC,466,Toronto,Jul-15
+14065,ET,81,Outside City Limits,Aug-15
+14066,ET,334,Toronto,Aug-15
+14067,NY,111,Outside City Limits,Aug-15
+14068,NY,484,Toronto,Aug-15
+14069,SC,97,Outside City Limits,Aug-15
+14070,SC,416,Toronto,Aug-15
+14071,ET,75,Outside City Limits,Sep-15
+14072,ET,310,Toronto,Sep-15
+14073,NY,87,Outside City Limits,Sep-15
+14074,NY,333,Toronto,Sep-15
+14075,SC,86,Outside City Limits,Sep-15
+14076,SC,432,Toronto,Sep-15
+14077,ET,158,Outside City Limits,Oct-15
+14078,ET,401,Toronto,Oct-15
+14079,NY,79,Outside City Limits,Oct-15
+14080,NY,301,Toronto,Oct-15
+14081,SC,83,Outside City Limits,Oct-15
+14082,SC,372,Toronto,Oct-15
+14083,ET,116,Outside City Limits,Nov-15
+14084,ET,460,Toronto,Nov-15
+14085,NY,70,Outside City Limits,Nov-15
+14086,NY,372,Toronto,Nov-15
+14087,SC,86,Outside City Limits,Nov-15
+14088,SC,413,Toronto,Nov-15
+14089,ET,68,Outside City Limits,Dec-15
+14090,ET,333,Toronto,Dec-15
+14091,NY,70,Outside City Limits,Dec-15
+14092,NY,259,Toronto,Dec-15
+14093,SC,98,Outside City Limits,Dec-15
+14094,SC,459,Toronto,Dec-15
+14095,ET,183,Outside City Limits,Jan-16
+14096,ET,422,Toronto,Jan-16
+14097,NY,90,Outside City Limits,Jan-16
+14098,NY,396,Toronto,Jan-16
+14099,SC,87,Outside City Limits,Jan-16
+14100,SC,564,Toronto,Jan-16
+14101,ET,95,Outside City Limits,Feb-16
+14102,ET,387,Toronto,Feb-16
+14103,NY,83,Outside City Limits,Feb-16
+14104,NY,285,Toronto,Feb-16
+14105,SC,99,Outside City Limits,Feb-16
+14106,SC,471,Toronto,Feb-16
+14107,ET,155,Outside City Limits,Mar-16
+14108,ET,440,Toronto,Mar-16
+14109,NY,95,Outside City Limits,Mar-16
+14110,NY,311,Toronto,Mar-16
+14111,SC,93,Outside City Limits,Mar-16
+14112,SC,533,Toronto,Mar-16
+14113,ET,104,Outside City Limits,Apr-16
+14114,ET,414,Toronto,Apr-16
+14115,NY,51,Outside City Limits,Apr-16
+14116,NY,255,Toronto,Apr-16
+14117,SC,107,Outside City Limits,Apr-16
+14118,SC,539,Toronto,Apr-16
+14119,ET,137,Outside City Limits,May-16
+14120,ET,355,Toronto,May-16
+14121,NY,106,Outside City Limits,May-16
+14122,NY,329,Toronto,May-16
+14123,SC,91,Outside City Limits,May-16
+14124,SC,518,Toronto,May-16
+14125,ET,134,Outside City Limits,Jun-16
+14126,ET,387,Toronto,Jun-16
+14127,NY,53,Outside City Limits,Jun-16
+14128,NY,304,Toronto,Jun-16
+14129,SC,48,Outside City Limits,Jun-16
+14130,SC,421,Toronto,Jun-16
+14131,ET,126,Outside City Limits,Jul-16
+14132,ET,407,Toronto,Jul-16
+14133,NY,10,Outside City Limits,Jul-16
+14134,NY,250,Toronto,Jul-16
+14135,SC,60,Outside City Limits,Jul-16
+14136,SC,186,Toronto,Jul-16
+14137,ET,155,Outside City Limits,Aug-16
+14138,ET,312,Toronto,Aug-16
+14139,NY,77,Outside City Limits,Aug-16
+14140,NY,240,Toronto,Aug-16
+14141,SC,85,Outside City Limits,Aug-16
+14142,SC,696,Toronto,Aug-16
+14143,ET,198,Outside City Limits,Sep-16
+14144,ET,432,Toronto,Sep-16
+14145,NY,78,Outside City Limits,Sep-16
+14146,NY,321,Toronto,Sep-16
+14147,SC,112,Outside City Limits,Sep-16
+14148,SC,553,Toronto,Sep-16
+14149,ET,108,Outside City Limits,Oct-16
+14150,ET,427,Toronto,Oct-16
+14151,NY,78,Outside City Limits,Oct-16
+14152,NY,356,Toronto,Oct-16
+14153,SC,93,Outside City Limits,Oct-16
+14154,SC,478,Toronto,Oct-16
+14155,ET,124,Outside City Limits,Nov-16
+14156,ET,293,Toronto,Nov-16
+14157,NY,90,Outside City Limits,Nov-16
+14158,NY,308,Toronto,Nov-16
+14159,SC,124,Outside City Limits,Nov-16
+14160,SC,518,Toronto,Nov-16
+14161,ET,98,Outside City Limits,Dec-16
+14162,ET,338,Toronto,Dec-16
+14163,NY,59,Outside City Limits,Dec-16
+14164,NY,298,Toronto,Dec-16
+14165,SC,69,Outside City Limits,Dec-16
+14166,SC,401,Toronto,Dec-16
+14167,ET,208,Outside City Limits,Jan-17
+14168,ET,610,Toronto,Jan-17
+14169,NY,121,Outside City Limits,Jan-17
+14170,NY,381,Toronto,Jan-17
+14171,SC,134,Outside City Limits,Jan-17
+14172,SC,747,Toronto,Jan-17
+14173,ET,105,Outside City Limits,Feb-17
+14174,ET,340,Toronto,Feb-17
+14175,NY,92,Outside City Limits,Feb-17
+14176,NY,352,Toronto,Feb-17
+14177,SC,142,Outside City Limits,Feb-17
+14178,SC,524,Toronto,Feb-17
+14179,ET,133,Outside City Limits,Mar-17
+14180,ET,442,Toronto,Mar-17
+14181,NY,74,Outside City Limits,Mar-17
+14182,NY,430,Toronto,Mar-17
+14183,SC,95,Outside City Limits,Mar-17
+14184,SC,518,Toronto,Mar-17
+14185,ET,122,Outside City Limits,Apr-17
+14186,ET,370,Toronto,Apr-17
+14187,NY,25,Outside City Limits,Apr-17
+14188,NY,160,Toronto,Apr-17
+14189,SC,77,Outside City Limits,Apr-17
+14190,SC,358,Toronto,Apr-17
+14191,ET,135,Outside City Limits,May-17
+14192,ET,447,Toronto,May-17
+14193,NY,116,Outside City Limits,May-17
+14194,NY,426,Toronto,May-17
+14195,SC,89,Outside City Limits,May-17
+14196,SC,481,Toronto,May-17
+14197,ET,110,Outside City Limits,Jun-17
+14198,ET,384,Toronto,Jun-17
+14199,NY,115,Outside City Limits,Jun-17
+14200,NY,265,Toronto,Jun-17
+14201,SC,106,Outside City Limits,Jun-17
+14202,SC,373,Toronto,Jun-17
+14203,ET,133,Outside City Limits,Jul-17
+14204,ET,255,Toronto,Jul-17
+14205,NY,82,Outside City Limits,Jul-17
+14206,NY,268,Toronto,Jul-17
+14207,SC,92,Outside City Limits,Jul-17
+14208,SC,448,Toronto,Jul-17
+14209,ET,128,Outside City Limits,Aug-17
+14210,ET,348,Toronto,Aug-17
+14211,NY,82,Outside City Limits,Aug-17
+14212,NY,277,Toronto,Aug-17
+14213,SC,113,Outside City Limits,Aug-17
+14214,SC,602,Toronto,Aug-17
+14215,ET,140,Outside City Limits,Sep-17
+14216,ET,471,Toronto,Sep-17
+14217,NY,51,Outside City Limits,Sep-17
+14218,NY,239,Toronto,Sep-17
+14219,SC,87,Outside City Limits,Sep-17
+14220,SC,360,Toronto,Sep-17
+14221,ET,172,Outside City Limits,Oct-17
+14222,ET,521,Toronto,Oct-17
+14223,NY,94,Outside City Limits,Oct-17
+14224,NY,289,Toronto,Oct-17
+14225,SC,70,Outside City Limits,Oct-17
+14226,SC,477,Toronto,Oct-17
+14227,ET,129,Outside City Limits,Nov-17
+14228,ET,387,Toronto,Nov-17
+14229,NY,84,Outside City Limits,Nov-17
+14230,NY,358,Toronto,Nov-17
+14231,SC,99,Outside City Limits,Nov-17
+14232,SC,540,Toronto,Nov-17
+14233,ET,44,Outside City Limits,Dec-17
+14234,ET,184,Toronto,Dec-17
+14235,NY,56,Outside City Limits,Dec-17
+14236,NY,125,Toronto,Dec-17
+14237,SC,64,Outside City Limits,Dec-17
+14238,SC,295,Toronto,Dec-17
+14239,ET,248,Outside City Limits,Jan-18
+14240,ET,605,Toronto,Jan-18
+14241,NY,103,Outside City Limits,Jan-18
+14242,NY,501,Toronto,Jan-18
+14243,SC,188,Outside City Limits,Jan-18
+14244,SC,766,Toronto,Jan-18
+14245,ET,193,Outside City Limits,Feb-18
+14246,ET,440,Toronto,Feb-18
+14247,NY,46,Outside City Limits,Feb-18
+14248,NY,262,Toronto,Feb-18
+14249,SC,142,Outside City Limits,Feb-18
+14250,SC,648,Toronto,Feb-18
+14251,ET,126,Outside City Limits,Mar-18
+14252,ET,463,Toronto,Mar-18
+14253,NY,81,Outside City Limits,Mar-18
+14254,NY,292,Toronto,Mar-18
+14255,SC,141,Outside City Limits,Mar-18
+14256,SC,655,Toronto,Mar-18
+14257,ET,95,Outside City Limits,Apr-18
+14258,ET,320,Toronto,Apr-18
+14259,NY,37,Outside City Limits,Apr-18
+14260,NY,206,Toronto,Apr-18
+14261,SC,61,Outside City Limits,Apr-18
+14262,SC,347,Toronto,Apr-18
+14263,ET,216,Outside City Limits,May-18
+14264,ET,459,Toronto,May-18
+14265,NY,140,Outside City Limits,May-18
+14266,NY,492,Toronto,May-18
+14267,SC,108,Outside City Limits,May-18
+14268,SC,494,Toronto,May-18
+14269,ET,88,Outside City Limits,Jun-18
+14270,ET,377,Toronto,Jun-18
+14271,NY,31,Outside City Limits,Jun-18
+14272,NY,194,Toronto,Jun-18
+14273,SC,82,Outside City Limits,Jun-18
+14274,SC,513,Toronto,Jun-18
+14275,ET,117,Outside City Limits,Jul-18
+14276,ET,327,Toronto,Jul-18
+14277,NY,125,Outside City Limits,Jul-18
+14278,NY,348,Toronto,Jul-18
+14279,SC,72,Outside City Limits,Jul-18
+14280,SC,522,Toronto,Jul-18
+14281,ET,81,Outside City Limits,Aug-18
+14282,ET,220,Toronto,Aug-18
+14283,NY,26,Outside City Limits,Aug-18
+14284,NY,183,Toronto,Aug-18
+14285,SC,70,Outside City Limits,Aug-18
+14286,SC,406,Toronto,Aug-18
+14287,ET,157,Outside City Limits,Sep-18
+14288,ET,373,Toronto,Sep-18
+14289,NY,101,Outside City Limits,Sep-18
+14290,NY,285,Toronto,Sep-18
+14291,SC,133,Outside City Limits,Sep-18
+14292,SC,582,Toronto,Sep-18
+14293,ET,170,Outside City Limits,Oct-18
+14294,ET,573,Toronto,Oct-18
+14295,NY,37,Outside City Limits,Oct-18
+14296,NY,214,Toronto,Oct-18
+14297,SC,80,Outside City Limits,Oct-18
+14298,SC,592,Toronto,Oct-18
+14299,ET,175,Outside City Limits,Nov-18
+14300,ET,510,Toronto,Nov-18
+14301,NY,63,Outside City Limits,Nov-18
+14302,NY,343,Toronto,Nov-18
+14303,SC,101,Outside City Limits,Nov-18
+14304,SC,425,Toronto,Nov-18
+14305,ET,85,Outside City Limits,Dec-18
+14306,ET,144,Toronto,Dec-18
+14307,NY,89,Outside City Limits,Dec-18
+14308,NY,287,Toronto,Dec-18
+14309,SC,73,Outside City Limits,Dec-18
+14310,SC,433,Toronto,Dec-18
+14311,ET,199,Outside City Limits,Jan-19
+14312,ET,612,Toronto,Jan-19
+14313,NY,122,Outside City Limits,Jan-19
+14314,NY,455,Toronto,Jan-19
+14315,SC,105,Outside City Limits,Jan-19
+14316,SC,505,Toronto,Jan-19
+14317,ET,189,Outside City Limits,Feb-19
+14318,ET,573,Toronto,Feb-19
+14319,NY,80,Outside City Limits,Feb-19
+14320,NY,328,Toronto,Feb-19
+14321,SC,84,Outside City Limits,Feb-19
+14322,SC,379,Toronto,Feb-19
+14323,ET,152,Outside City Limits,Mar-19
+14324,ET,555,Toronto,Mar-19
+14325,NY,68,Outside City Limits,Mar-19
+14326,NY,344,Toronto,Mar-19
+14327,SC,97,Outside City Limits,Mar-19
+14328,SC,433,Toronto,Mar-19
+14329,ET,111,Outside City Limits,Apr-19
+14330,ET,347,Toronto,Apr-19
+14331,NY,54,Outside City Limits,Apr-19
+14332,NY,253,Toronto,Apr-19
+14333,SC,136,Outside City Limits,Apr-19
+14334,SC,522,Toronto,Apr-19
+14335,ET,205,Outside City Limits,May-19
+14336,ET,407,Toronto,May-19
+14337,NY,43,Outside City Limits,May-19
+14338,NY,268,Toronto,May-19
+14339,SC,118,Outside City Limits,May-19
+14340,SC,678,Toronto,May-19
+14341,ET,73,Outside City Limits,Jun-19
+14342,ET,164,Toronto,Jun-19
+14343,NY,133,Outside City Limits,Jun-19
+14344,NY,395,Toronto,Jun-19
+14345,SC,77,Outside City Limits,Jun-19
+14346,SC,465,Toronto,Jun-19
+14347,ET,157,Outside City Limits,Jul-19
+14348,ET,256,Toronto,Jul-19
+14349,NY,69,Outside City Limits,Jul-19
+14350,NY,316,Toronto,Jul-19
+14351,SC,155,Outside City Limits,Jul-19
+14352,SC,704,Toronto,Jul-19
+14353,ET,93,Outside City Limits,Aug-19
+14354,ET,242,Toronto,Aug-19
+14355,NY,89,Outside City Limits,Aug-19
+14356,NY,316,Toronto,Aug-19
+14357,SC,107,Outside City Limits,Aug-19
+14358,SC,432,Toronto,Aug-19
+14359,ET,140,Outside City Limits,Sep-19
+14360,ET,266,Toronto,Sep-19
+14361,NY,87,Outside City Limits,Sep-19
+14362,NY,312,Toronto,Sep-19
+14363,SC,106,Outside City Limits,Sep-19
+14364,SC,385,Toronto,Sep-19
+14365,ET,109,Outside City Limits,Oct-19
+14366,ET,306,Toronto,Oct-19
+14367,NY,59,Outside City Limits,Oct-19
+14368,NY,323,Toronto,Oct-19
+14369,SC,81,Outside City Limits,Oct-19
+14370,SC,509,Toronto,Oct-19
+14371,ET,155,Outside City Limits,Nov-19
+14372,ET,500,Toronto,Nov-19
+14373,NY,100,Outside City Limits,Nov-19
+14374,NY,277,Toronto,Nov-19
+14375,SC,135,Outside City Limits,Nov-19
+14376,SC,631,Toronto,Nov-19
+14377,TO,39,Outside City Limits,Nov-19
+14378,TO,178,Toronto,Nov-19
+14379,ET,154,Outside City Limits,Dec-19
+14380,ET,332,Toronto,Dec-19
+14381,NY,40,Outside City Limits,Dec-19
+14382,NY,124,Toronto,Dec-19
+14383,SC,125,Outside City Limits,Dec-19
+14384,SC,523,Toronto,Dec-19
+14385,ET,149,Outside City Limits,Jan-20
+14386,ET,416,Toronto,Jan-20
+14387,NY,86,Outside City Limits,Jan-20
+14388,NY,563,Toronto,Jan-20
+14389,SC,157,Outside City Limits,Jan-20
+14390,SC,557,Toronto,Jan-20
+14391,TO,46,Outside City Limits,Jan-20
+14392,TO,218,Toronto,Jan-20
+14393,ET,123,Outside City Limits,Feb-20
+14394,ET,313,Toronto,Feb-20
+14395,NY,61,Outside City Limits,Feb-20
+14396,NY,298,Toronto,Feb-20
+14397,SC,102,Outside City Limits,Feb-20
+14398,SC,282,Toronto,Feb-20
+14399,TO,58,Outside City Limits,Feb-20
+14400,TO,252,Toronto,Feb-20
+14401,ET,86,Outside City Limits,Mar-20
+14402,ET,269,Toronto,Mar-20
+14403,NY,30,Outside City Limits,Mar-20
+14404,NY,184,Toronto,Mar-20
+14405,SC,57,Outside City Limits,Mar-20
+14406,SC,232,Toronto,Mar-20
+14407,TO,9,Outside City Limits,Mar-20
+14408,TO,29,Toronto,Mar-20
+14409,SC,184,Outside City Limits,Apr-20
+14410,SC,662,Toronto,Apr-20
+14411,TO,1,Toronto,Apr-20
+14412,ET,239,Outside City Limits,May-20
+14413,ET,770,Toronto,May-20
+14414,NY,74,Outside City Limits,May-20
+14415,NY,356,Toronto,May-20
+14416,SC,393,Outside City Limits,May-20
+14417,SC,1455,Toronto,May-20
+14418,TO,14,Outside City Limits,May-20
+14419,TO,128,Toronto,May-20
+14420,ET,190,Outside City Limits,Jun-20
+14421,ET,567,Toronto,Jun-20
+14422,NY,32,Outside City Limits,Jun-20
+14423,NY,210,Toronto,Jun-20
+14424,SC,5,Outside City Limits,Jun-20
+14425,SC,29,Toronto,Jun-20
+14426,TO,61,Outside City Limits,Jun-20
+14427,TO,255,Toronto,Jun-20
+14428,ET,187,Outside City Limits,Jul-20
+14429,ET,647,Toronto,Jul-20
+14430,NY,24,Outside City Limits,Jul-20
+14431,NY,187,Toronto,Jul-20
+14432,TO,72,Outside City Limits,Jul-20
+14433,TO,272,Toronto,Jul-20
+14434,ET,186,Outside City Limits,Aug-20
+14435,ET,507,Toronto,Aug-20
+14436,NY,46,Outside City Limits,Aug-20
+14437,NY,200,Toronto,Aug-20
+14438,TO,12,Outside City Limits,Aug-20
+14439,TO,86,Toronto,Aug-20
+14440,ET,39,Outside City Limits,Sep-20
+14441,ET,194,Toronto,Sep-20
+14442,NY,1,Outside City Limits,Sep-20
+14443,NY,2,Toronto,Sep-20
+14444,SC,40,Outside City Limits,Sep-20
+14445,SC,140,Toronto,Sep-20
+14446,TO,156,Outside City Limits,Sep-20
+14447,TO,534,Toronto,Sep-20
+14448,ET,164,Outside City Limits,Oct-20
+14449,ET,375,Toronto,Oct-20
+14450,NY,1,Outside City Limits,Oct-20
+14451,NY,2,Toronto,Oct-20
+14452,SC,79,Outside City Limits,Oct-20
+14453,SC,162,Toronto,Oct-20
+14454,TO,220,Outside City Limits,Oct-20
+14455,TO,683,Toronto,Oct-20
+14456,ET,322,Outside City Limits,Nov-20
+14457,ET,1239,Toronto,Nov-20
+14458,NY,5,Outside City Limits,Nov-20
+14459,NY,24,Toronto,Nov-20
+14460,SC,12,Outside City Limits,Nov-20
+14461,SC,39,Toronto,Nov-20
+14462,TO,39,Outside City Limits,Nov-20
+14463,TO,147,Toronto,Nov-20
+14464,ET,171,Outside City Limits,Dec-20
+14465,ET,833,Toronto,Dec-20
+14466,SC,3,Toronto,Dec-20
+14467,TO,1,Outside City Limits,Dec-20
+14468,TO,16,Toronto,Dec-20
